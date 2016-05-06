@@ -1,1 +1,9 @@
 
+{
+  "name": "jquery",
+  "version": "2.2.3",
+  "dependencies": {
+    "jquery": "2.2.3"
+  },
+  "private": true
+}
